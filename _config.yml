@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: EricShang's blog
-subtitle: '无趣的灵魂'
-description: ''
-keywords:
+title: 个人博客
+subtitle: '无趣的皮囊'
+description: '不能说自己是菜鸟'
+keywords: 程序
 author: EricShang
-language: CN
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://shx-eric.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -43,7 +43,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter: highlight.js
+syntax_highlighter: false
 highlight:
   line_number: true
   auto_detect: false
