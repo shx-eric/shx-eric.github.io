@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: false
@@ -67,6 +70,8 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  CocosCreator: CocosCreator
+  CocosCreator实例: cocoscreator-examples
 tag_map:
 
 # Metadata elements
@@ -186,3 +191,5 @@ algolia:
     - gallery
     - photos
     - tags
+
+
