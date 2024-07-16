@@ -36,7 +36,7 @@
     "hexo-util": "^3.3.0",
     "instantsearch.js": "^4.72.1",
     "js-yaml": "^4.1.0",
-    "mouse-firework": "^0.0.5",
+    "mouse-firework": "^0.0.6",
     "quicklink": "^2.3.0",
     "theme-shokax-anime": "^0.0.6",
     "theme-shokax-pjax": "^0.0.3",
